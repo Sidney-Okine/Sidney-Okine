@@ -35,6 +35,9 @@ ___
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sidney-Okine&theme=shades-of-purple)](https://git.io/streak-stats)
 
 ___
+<a href="http://www.github.com/Sidney-Okine"><img src="https://activity-graph.herokuapp.com/graph?username=Sidney-Okine&count_private=true&bg_color=7851a9&color=ffffff&line=FFEA00&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+___
 
 If you like what I am doing or got any anything to tell me or do for me, feel free to hit my dm's :rocket:
 
