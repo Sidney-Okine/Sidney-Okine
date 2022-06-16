@@ -25,7 +25,7 @@ ___
 |-|
 |[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=Sidney-Okine&show_icons=true&theme=shades-of-purple)](https://github.com/Sidney-Okine)|
 ___
-| My Languages |
+| Top Languages :rocket:|
 |-|
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Okine&show_icons=true&theme=shades-of-purple&hide_title=true)](https://github.com/Sidney-Okine)|
 ___
