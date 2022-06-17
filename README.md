@@ -6,7 +6,7 @@ Also referred to as the 'Thawing Programmer' basically because of how i am able 
 With my knowledge in programming over the years, I seek to elevate the standards of living for the younger and upcoming generation. 
 Make Life a Better Place :seedling:
 
-Oops. Forgot to mention,aside my Girlfriend:princess::heart:,I'm in love with Swift and SwiftUI <a><img src = "https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40" height="40"/></a>
+Oops. Forgot to mention,aside my MOM:heart:,I'm in love with Swift and SwiftUI <a><img src = "https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40" height="40"/></a>
 
 
 #### Other Stacks I'm Familiar with:
