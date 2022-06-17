@@ -20,6 +20,8 @@ Oops. Forgot to mention,aside my MOM:heart:,I'm in love with Swift and SwiftUI <
 <a href="https://twitter.com/OkineSidney"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/okinesidney"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://wa.me/message/YGTWZNOCO6RFI1" target="blank"><img alt = "WhatsApp" title= "WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+#### Or <a href = "https://sidneyokine.vercel.app">Visit My Website :anchor:</a> 
 ___
 |My Github Statistics|
 |-|
