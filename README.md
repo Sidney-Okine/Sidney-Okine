@@ -40,6 +40,9 @@ ___
 <a href="http://www.github.com/Sidney-Okine"><img src="https://activity-graph.herokuapp.com/graph?username=Sidney-Okine&count_private=true&bg_color=7851a9&color=ffffff&line=FFEA00&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ___
+## My GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=Sidney-Okine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+___
 
 If you like what I am doing or got any anything to tell me or do for me, feel free to hit my dm's :rocket:
 
